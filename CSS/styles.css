@@ -1,0 +1,101 @@
+
+
+h1{
+  font-family: 'Schoolbell', cursive;
+  font-size: 400%;
+  margin: auto;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-weight: 800;
+  font-size: 150%;
+}
+h3 {
+  font-family: 'Raleway', sans-serif;
+  margin:auto;
+  font-weight: 400;
+}
+
+
+h4{
+  font-family: 'Raleway', sans-serif;
+  margin:auto;
+
+}
+
+hr {
+  border-style: solid none none none;
+  border-width: 1px;
+  width: 30%;
+}
+
+table{
+  height: 50px;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  font-family: 'Roboto', sans-serif;
+  font-size:80%;
+}
+
+.empty-container{
+  height:250px;
+}
+
+.top-container{
+  text-align: center;
+  position:relative;
+
+}
+
+.bottom-container{
+  text-align: center;
+}
+
+
+.fingers{
+  height: 50%;
+  width: 14%;
+  position:absolute;
+  right:230px;
+  top:0;
+}
+
+
+.fingersbottom{
+  height: 50%;
+  width: 14%;
+  position:absolute;
+  left:230px;
+  bottom:0;
+  transform: rotate(180deg);
+}
+
+.skill-row{
+  width:50%;
+  margin:50px auto;
+
+}
+
+.skill{
+  width:100px;
+  margin-right: 40px;
+}
+
+.classproj{
+  color:#158467;
+}
+
+.intern{
+  color: #d54062;
+}
+
+.extracuric{
+  color:#00b7c2;
+}
